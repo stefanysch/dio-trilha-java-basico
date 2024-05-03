@@ -1,4 +1,5 @@
 # dio-trilha-java-basico
-Repositório para exercícios do curso de Java Básico pela DIO.
+Repositório para exercícios do curso de Java Básico pela DIO. :3
 
-Alterando o conteúdo de um arquivo de forma local.
+
+
