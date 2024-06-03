@@ -1,7 +1,7 @@
 public class ResultadoEscolar {
   
   public static void main(String[] args) {
-    int nota = 8;
+    int nota = 7;
 
     if (nota >= 7)
       System.out.println("Aprovado!");
@@ -9,5 +9,6 @@ public class ResultadoEscolar {
       System.out.println("Prova de Recuperação!");
     else
       System.out.println("Reprovado!");
+    //String resultado = nota >=7 ? "Aprovado" : "Reprovado"; Sysout(resultado); -representação de condição ternária
   }
 }
