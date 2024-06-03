@@ -9,6 +9,6 @@ public class ResultadoEscolar {
       System.out.println("Prova de Recuperação!");
     else
       System.out.println("Reprovado!");
-    //String resultado = nota >=7 ? "Aprovado" : "Reprovado"; Sysout(resultado); -representação de condição ternária
+    //String resultado = nota >=7 ? "Aprovado" : nota >=5 && nota <7 ? "Prova de Recuperação" : "Reprovado"; Sysout(resultado); -representação de condição ternária
   }
 }
