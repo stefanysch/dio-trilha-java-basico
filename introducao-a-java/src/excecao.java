@@ -1,7 +1,7 @@
 import java.text.NumberFormat;
 import java.text.ParseException;
 
-public class excecao {
+public class Excecao {
 
     public static void main(String[] args) {
         Number valor;
